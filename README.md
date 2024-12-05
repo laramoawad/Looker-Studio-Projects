@@ -14,6 +14,10 @@ This repository showcases various Looker Studio (formerly Google Data Studio) da
 - **Description**: This dashboard provides an overview of the sales performance across different countries and product categories.
 - **Link to Dashboard**: https://lookerstudio.google.com/u/0/reporting/093dd44e-c083-4a22-a4f4-9061430652a4/page/fYkCE
 
+### Project 3: Product Analysis Dashboard
+- **Description**: This dashboard provides an overview of the product performance across different countries and categories and time periods.
+- **Link to Dashboard**: https://lookerstudio.google.com/u/0/reporting/dfa88d65-a75b-4857-8efe-ab05e994bbb5/page/jH5GE
+
 ## How to Use
 1. Click on the links provided to view the live dashboards.
 2. Explore the different visualizations and metrics to gain insights.
