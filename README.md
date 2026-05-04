@@ -16,11 +16,6 @@ This repository showcases various Looker Studio (formerly Google Data Studio) da
 - **Link to Dashboard**: https://lookerstudio.google.com/u/0/reporting/dfa88d65-a75b-4857-8efe-ab05e994bbb5/page/jH5GE
 
 
-### Project 3: Social Media Dashboard
-- **Description**: This dashboard provides an overview of the social media insights across different platforms and categories.
-- **Link to Dashboard**: https://lookerstudio.google.com/u/0/reporting/fe0d6a3e-ac74-42fb-a050-d54571f33798/page/p_gbi2xgztnd/edit
-
-
 ## How to Use
 1. Click on the links provided to view the live dashboards.
 2. Explore the different visualizations and metrics to gain insights.
